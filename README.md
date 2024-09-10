@@ -1,6 +1,6 @@
 Here's a well-structured GitLab README covering a **VCS (Version Control System) Notification System** with a table of contents, naming conventions, branch templates, and more. This can be formatted as a README in markdown.
 
-```markdown
+
 # 🚀 VCS Notification System
 
 This repository contains the VCS (Version Control System) Notification System, a tool designed to notify team members of changes, updates, and alerts within a version control system like GitLab. It helps teams stay up-to-date with the latest commits, branches, tags, and merges, improving collaboration and productivity.
@@ -17,7 +17,6 @@ This repository contains the VCS (Version Control System) Notification System, a
 5. [Contact Information](#-contact-information)
 6. [References](#-references)
 
----
 
 ## 📝 Overview
 
@@ -29,7 +28,7 @@ The VCS Notification System monitors and alerts teams about activity in their ve
 - Easily customizable to meet specific workflow needs.
 - Integrates with CI/CD pipelines for real-time status updates.
 
----
+
 
 ## 📛 Naming Conventions
 
@@ -39,9 +38,7 @@ Consistent naming conventions help ensure that everyone on the team can quickly 
 
 Branches should follow a clear naming structure to reflect the purpose and type of work being done. Here's a recommended branch naming convention:
 
-```
-<type>/<ticket-number>-<short-description>
-```
+
 
 #### Branch Type Examples:
 - `feature/`: Used for new features or functionalities.
@@ -60,9 +57,6 @@ Branches should follow a clear naming structure to reflect the purpose and type 
 
 Tags are used to mark specific points in the repository's history, typically for releases or important events. A recommended template for tags is:
 
-```
-v<major>.<minor>.<patch>
-```
 
 #### Example:
 - `v1.0.0` – First official release
@@ -88,14 +82,8 @@ A clear and consistent commit message format makes it easier to understand the h
 - **test**: Adding or fixing tests.
 - **chore**: Maintenance tasks, such as configuration updates.
 
-#### Example:
-```
-feat(auth): add OAuth2 login functionality
 
-Added OAuth2 login functionality to support Google and Facebook authentication. This will enhance the user experience and security.
-```
 
----
 
 ## 📊 VCS Notification System Features
 
@@ -112,7 +100,7 @@ The system can send notifications based on various triggers, including:
 - **Webhook Integrations**
 - **GitLab/GitHub Issue Comments**
 
----
+
 
 ## 📚 Detailed Documentation
 
@@ -126,7 +114,7 @@ For more information on setting up and configuring the VCS Notification System, 
 
 Documentation can be found [here](link-to-detailed-docs).
 
----
+
 
 ## 📧 Contact Information
 
@@ -136,7 +124,7 @@ For questions or support regarding the VCS Notification System, please reach out
 - **Support Team:** vcs-notifications@example.com
 - **GitLab/GitHub Issues:** [GitLab Issues](link-to-issues)
 
----
+
 
 ## 📚 References
 
