@@ -1,5 +1,3 @@
-Here's a well-structured GitLab README covering a **VCS (Version Control System) Notification System** with a table of contents, naming conventions, branch templates, and more. This can be formatted as a README in markdown.
-
 
 # 🚀 VCS Notification System
 
