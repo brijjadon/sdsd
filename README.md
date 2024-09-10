@@ -132,11 +132,6 @@ For questions or support regarding the VCS Notification System, please reach out
 - [GitLab Webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html)
 - [GitHub Webhooks](https://docs.github.com/en/developers/webhooks-and-events)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-```
 
-### Explanation:
-- **Naming Conventions**: Clear branch and commit naming practices are vital for team collaboration and tracking changes.
-- **VCS Notification System Features**: Describes the notification system's abilities, such as real-time alerts for various events.
-- **Commit Message Format**: Adopting a standardized format ensures clarity in tracking and understanding changes.
 
-You can replace the placeholder links (e.g., `link-to-detailed-docs`) with actual URLs to documentation or related resources.
+
