@@ -44,16 +44,7 @@ Tags mark specific points in the repository’s history, typically for releases 
 - `v1.1.0`: Minor feature updates and improvements.
 - `v1.1.1`: Patch for bug fixes.
 
-### Commit Message Format
 
-A clear and consistent commit message format ensures that each commit's purpose is easy to understand, making the repository history more readable.
-
-#### Commit Message Template:
-```
-<type>(<scope>): <subject>
-
-[optional body]
-```
 
 #### Commit Types:
 - **feat**: New feature or functionality.
@@ -64,15 +55,6 @@ A clear and consistent commit message format ensures that each commit's purpose 
 - **test**: Adding or modifying tests.
 - **chore**: Miscellaneous tasks, such as build tasks or dependency updates.
 
-#### Example:
-```
-feat(auth): add OAuth2 login functionality
-
-- Added OAuth2 login integration for Google and Facebook authentication.
-- Updated the user authentication flow to support multiple providers.
-```
-
----
 
 ## 📚 Detailed Documentation
 
@@ -102,15 +84,3 @@ For any questions or concerns regarding these VCS policies or how to apply them,
 - [Semantic Versioning](https://semver.org/)
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-
-### Breakdown:
-
-- **Naming Conventions**: Provides clear guidelines for naming branches, tags, and structuring commit messages to improve project organization.
-- **Branch Name Template**: A standardized format for branches, with common types (feature, bugfix, hotfix, etc.).
-- **Tag Template**: Follows semantic versioning for marking important points in the repository.
-- **Commit Message Format**: Ensures that each commit clearly states its purpose with a consistent format.
-- **Detailed Documentation**: Links to further documentation within the project for those seeking in-depth guidance.
-- **Contact Information**: Contacts for support or questions about the VCS policies.
-- **References**: External resources for deeper understanding of Git workflows, semantic versioning, and commit conventions.
-
-You can replace the placeholder links (e.g., `link-to-detailed-docs`) with actual URLs to your project's documentation or additional resources.
